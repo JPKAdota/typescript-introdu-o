@@ -1,6 +1,6 @@
-let button = document.getElementById('button');
-let input = document.getElementById('input');
-let input1 = document.getElementById('input1');
+//let button = document.getElementById('button');
+//let input = document.getElementById('input');
+//let input1 = document.getElementById('input1');
 
 function SomarNumeros(numero1, numero2) {
     if(typeof numero1 === 'number' && typeof numero2 === 'number') {
